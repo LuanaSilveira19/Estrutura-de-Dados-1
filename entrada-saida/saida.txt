@@ -1,0 +1,20 @@
+1 - Fulano (qtd=2) foi adicionado(a) na fila F2
+2 - Fulana (qtd=9) foi adicionado(a) na fila F2
+3 - Beltrano (qtd=20) foi adicionado(a) na fila F1
+4 - Beltrana (qtd=14) foi adicionado(a) na fila F1
+5 - Ciclana (qtd=13) foi adicionado(a) na fila F1
+6 - Ciclano (qtd=11) foi adicionado(a) na fila F1
+7 - Jordana (qtd=15) foi adicionado(a) na fila F1
+8 - Jordano (qtd=20) foi adicionado(a) na fila F2
+9 -
+Fila F1: {[Beltrano, s=M, t=L, q=20], [Beltrana, s=F, t=L, q=14], [Ciclana, s=F, t=R, q=13], [Ciclano, s=M, t=L, q=11], [Jordana, s=F, t=L, q=15]}
+Fila F2: {[Fulano, s=M, t=R, q=2], [Fulana, s=F, t=R, q=9], [Jordano, s=M, t=R, q=20]}
+10 - Fila F1 Ordenada: {[Ciclano, s=M, t=L, q=11], [Ciclana, s=F, t=R, q=13], [Beltrana, s=F, t=L, q=14], [Jordana, s=F, t=L, q=15], [Beltrano, s=M, t=L, q=20]}
+11 - Fila F2 Ordenada: {[Fulano, s=M, t=R, q=2], [Fulana, s=F, t=R, q=9], [Jordano, s=M, t=R, q=20]}
+12 - Quantidade de pessoas: 8; Percentual do sexo M: 50.00%; Quantidade de livros: 60; Quantidade de roupas: 44;
+13 - Fulana sexo(F) possui a menor quantidade de itens (9)
+14 - Fulano sexo(M) possui a menor quantidade de itens (2)
+15 - Beltrano foi atendido na fila F1.
+16 - Fulano foi atendido na fila F2.
+17 - Beltrana foi atendido na fila F1.
+18 - Fulana foi atendido na fila F2.

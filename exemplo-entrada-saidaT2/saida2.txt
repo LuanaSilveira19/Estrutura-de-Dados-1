@@ -1,0 +1,54 @@
+L1-N[0]:{VAZIA}
+L2-N[0]:{VAZIA}
+L3-N[0]:{VAZIA}
+Os caracteres <abobora> foram adicionados na lista L1
+Os caracteres <teste> foram adicionados na lista L2
+Os caracteres <KPT> foram adicionados na lista L3
+L1-N[7]:{abobora}
+L1-I[7]:{aroboba}
+L2-N[5]:{teste}
+L3-N[3]:{KPT}
+Substituição de L2 pelos caracteres <bo>
+L2-N[2]:{bo}
+L2-I[2]:{ob}
+Foram inseridos 2 caracteres <W> após o caractere <o> na lista L1
+L1-N[9]:{aboWboWra}
+L1-I[9]:{arWobWoba}
+L1-N[9]:{aboWboWra}
+Foram inseridos 2 caracteres <Z> após o caractere <a> na lista L1
+L1-N[11]:{aZboWboWraZ}
+L1-I[11]:{ZarWobWobZa}
+L1-N[11]:{aZboWboWraZ}
+Total de ocorrências <bo> na lista L1: 2
+Foram inseridos 2 caracteres <W> após o caractere <a> na lista L1
+L1-N[13]:{aWZboWboWraWZ}
+Substituição de L2 pelos caracteres <W>
+Total de ocorrências <W> na lista L1: 4
+Substituição de L2 pelos caracteres <bo>
+L1-N[13]:{aWZboWboWraWZ}
+L2-N[2]:{bo}
+L3-N[3]:{KPT}
+Os caracteres <KPT> foram inseridos antes da ocorrência <bo>!
+L1-N[16]:{aWZKPTboWboWraWZ}
+L2-N[2]:{bo}
+L3-N[3]:{KPT}
+L1-I[16]:{ZWarWobWobTPKZWa}
+L2-I[2]:{ob}
+L3-I[3]:{TPK}
+Substituição de L2 pelos caracteres <a>
+Substituição de L3 pelos caracteres <HF>
+Os caracteres <HF> foram inseridos antes da ocorrência <a>!
+L1-N[18]:{HFaWZKPTboWboWraWZ}
+L2-N[1]:{a}
+L3-N[2]:{HF}
+L1-I[18]:{ZWarWobWobTPKZWaFH}
+L2-I[1]:{a}
+L3-I[2]:{FH}
+O caractere <U> não foi encontrado na lista L1
+Substituição de L2 pelos caracteres <U>
+Substituição de L3 pelos caracteres <DJ>
+Total de ocorrências <U> na lista L1: 0
+A ocorrência <U> não foi encontrada na lista L1
+L1-N[18]:{HFaWZKPTboWboWraWZ}
+L2-N[1]:{U}
+L3-N[2]:{DJ}

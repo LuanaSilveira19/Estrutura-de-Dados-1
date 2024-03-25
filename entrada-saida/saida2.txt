@@ -1,0 +1,64 @@
+1 -
+Fila F1: vazia!
+Fila F2: vazia!
+2 - Fila F1 Ordenada: vazia!
+3 - Fila F2 Ordenada: vazia!
+4 - Quantidade de pessoas: 0; Percentual do sexo M: 0.00%; Quantidade de livros: 0; Quantidade de roupas: 0;
+5 - Erro: filas vazias.
+6 - Erro: filas vazias.
+7 - Erro: filas vazias.
+8 - Fulano (qtd=20) foi adicionado(a) na fila F1
+9 - Erro: Fulano já está em uma fila!
+10 - Erro: Fulana não foi enfileirado(a). Não há itens para serem doados.
+11 - Fulana (qtd=9) foi adicionado(a) na fila F2
+12 - Beltrano (qtd=20) foi adicionado(a) na fila F1
+13 - Beltrana (qtd=14) foi adicionado(a) na fila F1
+14 - Ciclana (qtd=13) foi adicionado(a) na fila F1
+15 - Ramona (qtd=5) foi adicionado(a) na fila F2
+16 -
+Fila F1: {[Fulano, s=M, t=R, q=20], [Beltrano, s=M, t=L, q=20], [Beltrana, s=F, t=L, q=14], [Ciclana, s=F, t=R, q=13]}
+Fila F2: {[Fulana, s=F, t=R, q=9], [Ramona, s=F, t=L, q=5]}
+17 - Fila F1 Ordenada: {[Ciclana, s=F, t=R, q=13], [Beltrana, s=F, t=L, q=14], [Fulano, s=M, t=R, q=20], [Beltrano, s=M, t=L, q=20]}
+18 - Fila F2 Ordenada: {[Ramona, s=F, t=L, q=5], [Fulana, s=F, t=R, q=9]}
+19 - Quantidade de pessoas: 6; Percentual do sexo M: 33.33%; Quantidade de livros: 39; Quantidade de roupas: 42;
+20 - Ramona sexo(F) possui a menor quantidade de itens (5)
+21 - Fulano sexo(M) possui a menor quantidade de itens (20)
+22 - Ciclano (qtd=11) foi adicionado(a) na fila F1
+23 - Jordana (qtd=7) foi adicionado(a) na fila F2
+24 - Jordano (qtd=6) foi adicionado(a) na fila F2
+25 - Fernando (qtd=5) foi adicionado(a) na fila F2
+26 - Fernanda (qtd=8) foi adicionado(a) na fila F2
+27 - Joao (qtd=3) foi adicionado(a) na fila F2
+28 -
+Fila F1: {[Fulano, s=M, t=R, q=20], [Beltrano, s=M, t=L, q=20], [Beltrana, s=F, t=L, q=14], [Ciclana, s=F, t=R, q=13], [Ciclano, s=M, t=L, q=11]}
+Fila F2: {[Fulana, s=F, t=R, q=9], [Ramona, s=F, t=L, q=5], [Jordana, s=F, t=L, q=7], [Jordano, s=M, t=R, q=6], [Fernando, s=M, t=L, q=5], [Fernanda, s=F, t=R, q=8], [Joao, s=M, t=L, q=3]}
+29 - Joana (qtd=1) foi adicionado(a) na fila F2
+30 -
+Fila F1: {[Fulano, s=M, t=R, q=20], [Beltrano, s=M, t=L, q=20], [Beltrana, s=F, t=L, q=14], [Ciclana, s=F, t=R, q=13], [Ciclano, s=M, t=L, q=11]}
+Fila F2: {[Fulana, s=F, t=R, q=9], [Ramona, s=F, t=L, q=5], [Jordana, s=F, t=L, q=7], [Jordano, s=M, t=R, q=6], [Fernando, s=M, t=L, q=5], [Fernanda, s=F, t=R, q=8], [Joao, s=M, t=L, q=3], [Joana, s=F, t=R, q=1]}
+31 - Fila F1 Ordenada: {[Ciclano, s=M, t=L, q=11], [Ciclana, s=F, t=R, q=13], [Beltrana, s=F, t=L, q=14], [Fulano, s=M, t=R, q=20], [Beltrano, s=M, t=L, q=20]}
+32 - Fila F2 Ordenada: {[Joana, s=F, t=R, q=1], [Joao, s=M, t=L, q=3], [Ramona, s=F, t=L, q=5], [Fernando, s=M, t=L, q=5], [Jordano, s=M, t=R, q=6], [Jordana, s=F, t=L, q=7], [Fernanda, s=F, t=R, q=8], [Fulana, s=F, t=R, q=9]}
+33 - Quantidade de pessoas: 13; Percentual do sexo M: 46.15%; Quantidade de livros: 65; Quantidade de roupas: 57;
+34 - Joana sexo(F) possui a menor quantidade de itens (1)
+35 - Joao sexo(M) possui a menor quantidade de itens (3)
+36 - Fulano foi atendido na fila F1.
+37 - Fulana foi atendido na fila F2.
+38 - Beltrano foi atendido na fila F1.
+39 - Ramona foi atendido na fila F2.
+40 - Beltrana foi atendido na fila F1.
+41 - Jordana foi atendido na fila F2.
+42 - Ciclana foi atendido na fila F1.
+43 - Jordano foi atendido na fila F2.
+44 - Ciclano foi atendido na fila F1.
+45 - Fernando foi atendido na fila F2.
+46 - Fernanda foi atendido na fila F2.
+47 - Joao foi atendido na fila F2.
+48 - Joana foi atendido na fila F2.
+49 - Erro: filas vazias.
+50 - Ramon (qtd=50) foi adicionado(a) na fila F1
+51 - Ramona (qtd=6) foi adicionado(a) na fila F2
+52 -
+Fila F1: {[Ramon, s=F, t=R, q=50]}
+Fila F2: {[Ramona, s=M, t=L, q=6]}
+53 - Ramon foi atendido na fila F1.
+54 - Ramona foi atendido na fila F2.

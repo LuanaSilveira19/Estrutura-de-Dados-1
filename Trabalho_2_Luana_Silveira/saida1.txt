@@ -1,0 +1,20 @@
+L1-N[0]:{VAZIA}
+Os caracteres <abobor> foram adicionados na lista L1
+Os caracteres <a> foram adicionados na lista L1
+L1-N[7]:{abobora}
+L1-I[7]:{aroboba}
+Foram inseridos 2 caracteres <W> após o caractere <o> na lista L1
+L1-N[9]:{aboWboWra}
+Foram inseridos 2 caracteres <Z> após o caractere <a> na lista L1
+L1-N[11]:{aZboWboWraZ}
+L1-I[11]:{ZarWobWobZa}
+Os caracteres <teste> foram adicionados na lista L2
+Substituição de L2 pelos caracteres <bo>
+Os caracteres <KPT> foram adicionados na lista L3
+L1-N[11]:{aZboWboWraZ}
+L2-N[2]:{bo}
+L3-N[3]:{KPT}
+Total de ocorrências <bo> na lista L1: 2
+Os caracteres <KPT> foram inseridos antes da ocorrência <bo>!
+L1-N[14]:{aZKPTboWboWraZ}
+L1-I[14]:{ZarWobWobTPKZa}

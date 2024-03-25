@@ -1,0 +1,48 @@
+L1(I): VAZIA
+L2(I): VAZIA
+O número 10 foi adicionado na lista L1
+O número 2 foi adicionado na lista L1
+O número 3 foi adicionado na lista L1
+O número 40 foi adicionado na lista L1
+O número 50 foi adicionado na lista L2
+O número 2 foi adicionado na lista L2
+O número 3 foi adicionado na lista L2
+O número 6 foi adicionado na lista L2
+O número 70 foi adicionado na lista L2
+L1(D): 40, 10, 3, 2
+L1(C): 2, 3, 10, 40
+L1(I): 10, 2, 3, 40
+L2(I): 50, 2, 3, 6, 70
+L1 - L2: 10, 40
+L2 - L1: 6, 50, 70
+L1(C): 2, 3, 10, 40
+L2(C): 2, 3, 6, 50, 70
+Mediana L1: 6.50
+Mediana L2: 6.00
+Todos os valores de L1 foram removidos
+L2 - L1: 2, 3, 6, 50, 70
+L1 - L2: VAZIA
+Erro ao calcular a mediana de L1:  lista vazia!
+O número 10 foi adicionado na lista L1
+L1(C): 10
+Mediana L1: 10.00
+O número 20 foi adicionado na lista L1
+L1(C): 10, 20
+Mediana L1: 15.00
+O número 2 foi adicionado na lista L2
+O número 2 foi adicionado na lista L2
+O número 3 foi adicionado na lista L2
+O número 3 foi adicionado na lista L2
+O número 3 foi adicionado na lista L2
+L2(I): 50, 2, 3, 6, 70, 2, 2, 3, 3, 3
+Moda(s) L2: 3
+O número 2 foi adicionado na lista L2
+L2(I): 50, 2, 3, 6, 70, 2, 2, 3, 3, 3, 2
+Moda(s) L2: 2, 3
+Todos os valores de L2 foram removidos
+L2(C): VAZIA
+Moda(s) L2: VAZIA
+O número 1 foi adicionado na lista L2
+O número 2 foi adicionado na lista L2
+L2(C): 1, 2
+Moda(s) L2: VAZIA
